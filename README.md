@@ -5,6 +5,7 @@ to run the test
 
 try tape
 > node timing.js
+
 > node test.js
 
 try rewire
